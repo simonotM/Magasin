@@ -26,6 +26,7 @@ public class Produit {
     public String toString() {
         return "Produit" +
                 "libelle='" + libelle + '\'' +
-                ", prix=" + prix ;
+                ", prix=" + prix
+                ;
     }
 }
