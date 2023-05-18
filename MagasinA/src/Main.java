@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello world! de A");
         System.out.println("coucou");
         System.out.println("ajout etudiant A");
+        System.out.println("ajout B");
     }
 }
