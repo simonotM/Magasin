@@ -187,3 +187,4 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij+all
 
+.out
